@@ -4,7 +4,6 @@ git测试
 这次添加一个新内容
 测试看看!!
 
-aaa
 bbb
 html
 ccc
